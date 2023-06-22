@@ -1,6 +1,6 @@
-# Module-18
+# Blockchain Ledger - Module 18
 
-Exercise:
+# Exercise:
 
 This exercise utilizes the blockchain based ledger system using Pychain. Using Streamlit as the web interface, the user can record transactions to simulate financial transactions between partner banks, while also verifying the integrity of the data that is being recorded.
 
